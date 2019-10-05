@@ -19,8 +19,9 @@ for i in range(q):
             if score[friend] <= 0:
                 score[friend] = -i - 1
 
-for val in score:
-    if val > 0:
-        print(-1,end=' ')
-    else:
-        print(-val, end=' ')
+print(*[-1 if val > 0 else -val for val in score]) # Marginally faster
+# for val in score:
+#     if val > 0:
+#         print(-1,end=' ')
+#     else:
+#         print(-val, end=' ')
