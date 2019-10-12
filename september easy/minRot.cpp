@@ -12,7 +12,7 @@ int main()
     
     cin >> tc;
     
-    for(long index = 0; index < tc; index++){
+    while(tc--){
         rot = 0;
         cin >> n >> occ >> preLen >> test;
         char* arr = new char[n];
@@ -36,9 +36,9 @@ int main()
             }
             if(arr[n - rot - 1] == test)
                 occ--;
+                
             if(arr[(n + preLen - rot - 1) % n] == test)
-                occ++;
-            
+                occ++;  
             
             rot++;
         }
