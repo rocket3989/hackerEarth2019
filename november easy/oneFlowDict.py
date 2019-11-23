@@ -1,3 +1,4 @@
+countY = 2
 for tc in range(int(input())):
     N, M = [int(x) for x in input().split()]
     
@@ -8,45 +9,81 @@ for tc in range(int(input())):
 
     fail = False
 
-    if M < N: print("No")
+    inputs = []
 
-    else:
-        for count in range(M):
+    for count in range(M):
 
-            u, v = [int(x) for x in input().split()]
-            
-            if u == v: continue
+        u, v = [int(x) for x in input().split()]
 
-            if (u, v) in edgeSet: 
+        inputs.append((u,v))
+        if fail: continue
+        
+        if u == v: continue
+
+        if (u, v) in edgeSet: 
+            fail = True
+
+        edgeSet.add((u, v))
+
+        outNode.setdefault(v, [])
+        inNode.setdefault(u, [])
+        outNode.setdefault(u, [])
+        inNode.setdefault(v, [])
+
+        for outVal in outNode[v]:
+            if (u, outVal) in edgeSet: 
                 fail = True
-                
-            edgeSet.add((u, v))
+            if u != outVal:
+                edgeSet.add((u, outVal))
+                outNode[u].append(outVal)
 
-            outNode.setdefault(v, [])
-            inNode.setdefault(u, [])
+        for inVal in inNode[u]:
+            if (inVal, v) in edgeSet: 
+                fail = True
+            if v != inVal:
+                edgeSet.add((inVal, v))
+                inNode[v].append(inVal)
+        
 
-            for outVal in outNode[v]:
-                if (u, outVal) in edgeSet: 
-                    fail = True
-                if u != outVal:
-                    edgeSet.add((u, outVal))
+        outNode[u].append(v)
+        inNode[v].append(u)
+        
+        print(u, v)
+        print(inNode)
+        print(outNode)  
+        print(sorted(edgeSet))
+        print()
 
-            for inVal in inNode[u]:
-                if (inVal, v) in edgeSet: 
-                    fail = True
-                if v != inVal:
-                    edgeSet.add((inVal, v))
-            if fail:
-                print("No")
-                break
-            
-            outNode.setdefault(u, [])
-            inNode.setdefault(v, [])
+    # print(N, M)
+    # for val in inputs:
+    #     print(*val)
+    print()
+    print(sorted(edgeSet))
+    print(inNode)
+    print(outNode)
+    print(N * (N-1))
 
-            outNode[u].append(v)
-            inNode[v].append(u)
+    if fail: print("No")
+    else:
+        if (len(edgeSet) == N * (N-1)):
+            print(N, M)
+            for val in inputs:
+                print(*val)
 
-        else:
-            if (len(edgeSet) == N * (N-1)):
-                print("Yes")
-            else: print("No")
+        else: print("No")
+
+"""
+
+
+5 8
+2 4
+2 1
+4 2
+2 3
+3 2
+3 3
+5 2
+1 5
+
+
+"""

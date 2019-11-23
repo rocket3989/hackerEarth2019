@@ -1,0 +1,2002 @@
+Traceback (most recent call last):
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 57, in <module>
+    count1 = dfsNumber(1)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 27, in dfsNumber
+    countOf = dfsNumber(edge[0], node)
+  File "/hackerearth/PYTHON3_0101_f592_cb33_606f/s_0534_2330_d943_9aec.py3", line 26, in dfsNumber
+    if edge[0] == parent: continue
+RecursionError: maximum recursion depth exceeded in comparison
