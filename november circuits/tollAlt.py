@@ -1,4 +1,3 @@
-from collections import deque
 from random import randint
 import sys
 sys.setrecursionlimit(10**6)
@@ -50,7 +49,6 @@ def dfsScore(node, parent, arr):
         dfsScore(edge[0], node, arr)
         arr[edge[2]] = init[edge[2]]
 
-
 init = []
 alt = []
 adj = []
@@ -67,7 +65,6 @@ for tc in range(int(input())):
         adj[y].append((x, b, edge, -1, a))
 
     count1 = dfsNumber(1)
-    # print(edgeCount)
 
     minCost = float('inf')
     dfsScore(1, 0, init[:])

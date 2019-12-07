@@ -26,7 +26,7 @@ for i in range(1, 30):
 
     if i % 2 == 0:
         extra = (i // 2) * 3
-    if i % 3 == 0:
+    if i % 6 == 3:
         extra3 = (i//3) * 8
     if i % 4 == 0:
         extra4 = (i//4)*3
@@ -46,8 +46,8 @@ for i in range(1, 30):
         val2 = (i*j) - val 
         if j % 2 == 0:
             val2 -= extra*(j//2)
-        # if j % 3 == 0:
-        #     val2 -= extra3*(j//3)
+        if j % 3 == 0:
+            val2 -= extra3*(j//3)
         # if j % 4 == 0:
         #     val2 -= extra4 * (j // 4)
         # if j % 5 == 0:

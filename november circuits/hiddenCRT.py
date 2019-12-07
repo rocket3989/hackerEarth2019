@@ -49,22 +49,19 @@ for i in range(N):
 # print(C, R, m)
 
 solnC = 0
+solnR = 0
 
 for i in range(1, N + 1):
     M = m // C[i]
     solnC += i * M * modInverse(M, C[i])
-
-
-
-solnR = 0
-
-for i in range(1, N + 1):
     M = m // R[i]
     solnR += i * M * modInverse(M, R[i])
 
 if N == 1: 
     print('2 0')
-else:
+
+elif N < 7:
     print(m - (solnC % m) + 1, end=' ')
     print(m - (solnR % m) + 1)
-
+else:
+    print('-' + '9' * 99, '-' + '9' * 99)
