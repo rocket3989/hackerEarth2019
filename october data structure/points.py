@@ -6,7 +6,7 @@ for val in range(n):
     x1, y1 = [int(x) for x in input().split()]
     points.append((x1, y1))
 
-minDist = 10**10
+minDist = float('inf')
 minPoint = (0, 0)
 for (x1, y1), (x2, y2) in zip(points, points[1:] + points[:1]):
     # print(x1, y1, x2, y2)

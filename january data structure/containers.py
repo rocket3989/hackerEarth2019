@@ -3,7 +3,7 @@ events = []
 for val in range(int(input())):
     l, r = [int(x) for x in input().split()]
     events.append((l, 'l'))
-    events.append((r, 'ar'))
+    events.append((r, 'r'))
 
 maxCount = 0
 count = 0
@@ -17,3 +17,5 @@ for event in sorted(events):
         count -= 1
 
 print(maxCount)
+
+print(*sorted(events))
