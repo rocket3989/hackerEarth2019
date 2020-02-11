@@ -14,9 +14,7 @@ maxOf = 0
 # for i in range(N):
 #     for j in range(i + 1, N + 1):
 #         for k in range(i, j + 1):
-#             maxOf = max(maxOf, abs(pre[j] - pre[k] - (pre[k] - pre[i])))
-            
-# print(maxOf)
+            # maxOf = max(maxOf, abs(pre[j] - pre[k] - (pre[k] - pre[i])))
 
 #second try, n ^ 2
 
@@ -33,20 +31,35 @@ maxOf = 0
 
 # third try, n - > n ^ 2
 
+# lMin, lMax = 0, 0
+# rMin, rMax = min(pre), max(pre)
+
+# for i, val in enumerate(pre):
+#     maxOf = max(maxOf, (2 * val) - lMin - rMin)
+#     maxOf = max(maxOf, rMax + lMax - (2 * val))
+#     lMin, lMax = min(lMin, val), max(lMax, val)
+    
+#     if i > N - 1:
+#         rMax, rMin = 0, 0
+#         continue
+#     if val == rMax:
+#         rMax = max(pre[i + 1:])
+#     if val == rMin:
+#         rMin = min(pre[i + 1:])
+
+
 lMin, lMax = 0, 0
-rMin, rMax = min(pre), max(pre)
+rMin, rMax = [0, pre[-1]], [0, pre[-1]]
+
+for val in reversed(pre[:-1]):
+    rMin.append(min(rMin[-1], val))
+    rMax.append(max(rMax[-1], val))
+rMin.reverse()
+rMax.reverse()
 
 for i, val in enumerate(pre):
-    maxOf = max(maxOf, (2 * val) - lMin - rMin)
-    maxOf = max(maxOf, rMax + lMax - (2 * val))
+    maxOf = max(maxOf, (2 * val) - lMin - rMin[i])
+    maxOf = max(maxOf, rMax[i] + lMax - (2 * val))
     lMin, lMax = min(lMin, val), max(lMax, val)
-    
-    if i > N - 1:
-        rMax, rMin = 0, 0
-        continue
-    if val == rMax:
-        rMax = max(pre[i + 1:])
-    if val == rMin:
-        rMin = min(pre[i + 1:])
 
 print(maxOf)
