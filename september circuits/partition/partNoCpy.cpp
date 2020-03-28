@@ -68,7 +68,7 @@ int main(){
 
                         int check = min3(kvPair.first, diff, related);
                     
-                        ull* ref = &(relDictRef->emplace(check, 0).first -> second);
+                        ull* ref = &(relDictRef -> emplace(check, 0).first -> second);
                         *ref = (*ref + kvPair.second) % MOD;   
 
                     }
